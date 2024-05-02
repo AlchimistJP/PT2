@@ -40,6 +40,7 @@ Nous allons importer la donnees qui es un fichier csv ensuite les les bibliotheq
 """
 
 
+import streamlit as st
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
